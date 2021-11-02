@@ -9,7 +9,6 @@ import React from 'react';
                     <div className='field'>
                         <label>Name</label>
                         <input type='text' name='name' placeholder='Name'/>
-
                     </div>
                     <div className='field'>
                         <label>Email</label>
